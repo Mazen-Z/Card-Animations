@@ -12,7 +12,7 @@ When hovered over, the card undergoes a smooth transition, revealing additional 
 The card and its additional elements utilize gradient styling for a visually engaging appearance.
 
 ## Getting Started
-1. Clone the repository:
+1. Clone the repository
 2. Open index.html in your preferred web browser to view the card hover effect.
 
 ## Technologies Used:
