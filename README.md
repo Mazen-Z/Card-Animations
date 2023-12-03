@@ -1,9 +1,6 @@
 # Card Animation
 A simple HTML and CSS project that demonstrates an elegant hover effect on a card element. The project consists of an index.html file and a corresponding main.css stylesheet.
 
-## Preview
-Card Hover Effect
-
 ## Features:
 ### 1. Responsive Design
 The card is centrally aligned within the main container, adapting to various screen sizes.
